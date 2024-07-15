@@ -1,0 +1,26 @@
+{
+    "name": "John Ortega",
+    "age": 27,
+    "address": {
+        "street": "John Ways",
+        "city": "West Robinshire",
+        "state": "New Hampshire",
+        "zip": "36662"
+    },
+    "contact": {
+        "phone": "001-672-737-0807x8150",
+        "servicePhone": "800555212"
+    },
+    "birthday": "1997-14-10",
+    "ip": "152.220.186.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Challenge deep long sense method. Congress relate continue usually.\nAttorney mother into learn economy. Close security over when. Approach these cold teach.",
+        "bio": "Front until yes participant activity man. Myself standard next sport a share discover cut.\nDeal fly culture. Strong recently game answer public."
+    },
+    "apiKey": "2d613431ca14737e4a783f99baa40130917ec464bb86e1620733f63595779054",
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
