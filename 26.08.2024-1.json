@@ -1,0 +1,26 @@
+{
+    "name": "Crystal Turner",
+    "age": 21,
+    "address": {
+        "street": "Watkins Underpass",
+        "city": "New Danamouth",
+        "state": "Florida",
+        "zip": "10185"
+    },
+    "contact": {
+        "phone": "451-206-3443",
+        "servicePhone": "800042396"
+    },
+    "birthday": "2003-06-03",
+    "ip": "76.2.62.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Most similar point will. Fly practice look into teach. Season reveal special beyond turn statement when.\nAnimal class real course free take. More third into ready school. Few American entire eight.",
+        "bio": "Measure political southern. Happy floor gas spend.\nTechnology artist minute more middle how.\nEnjoy each true only usually sound."
+    },
+    "apiKey": "69d65d8bd239f8321989028090c1d20735835a13b8b0121122d1937ad2935646",
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
