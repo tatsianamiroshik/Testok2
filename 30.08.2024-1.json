@@ -1,0 +1,26 @@
+{
+    "name": "Melanie Blair",
+    "age": 55,
+    "address": {
+        "street": "Sandra Well",
+        "city": "Debbieberg",
+        "state": "West Virginia",
+        "zip": "73409"
+    },
+    "contact": {
+        "phone": "001-761-811-6941",
+        "servicePhone": "800218675"
+    },
+    "birthday": "1969-11-06",
+    "ip": "159.207.148.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Next building return year whose involve age. Paper leg dinner gas.\nActivity run physical indicate example. Mouth type thus as whether huge politics. Truth seven summer pick power sure image.",
+        "bio": "Institution election song follow local will. Task series remember early ground region war. Reality fill plan garden wonder according."
+    },
+    "apiKey": "4b2cae15038e53964532ac5bb78256a5c673f45b4f7399ea22b66c80af9eddf3",
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
