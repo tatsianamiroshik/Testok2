@@ -1,0 +1,26 @@
+{
+    "name": "Donald Trevino",
+    "age": 46,
+    "address": {
+        "street": "Reeves Mills",
+        "city": "Helenburgh",
+        "state": "Kansas",
+        "zip": "60562"
+    },
+    "contact": {
+        "phone": "(390)819-9314x1349",
+        "servicePhone": "800517266"
+    },
+    "birthday": "1978-14-04",
+    "ip": "138.253.24.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Either certainly theory. White effort partner chance long benefit. Face prove south section report his.\nBorn cause life nice recent tend indicate. Before me anyone upon instead alone join.",
+        "bio": "Information maintain detail employee green lot interesting. Choice least animal remember become.\nPeace man religious senior civil including against."
+    },
+    "apiKey": "210f6a96f9cf94e1fd6b13fc0d461f1e7da457c74ed5f9409950a8cf02251463",
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
