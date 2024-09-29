@@ -1,0 +1,26 @@
+{
+    "name": "David Jones",
+    "age": 21,
+    "address": {
+        "street": "Robert Drives",
+        "city": "North Hollybury",
+        "state": "Tennessee",
+        "zip": "49216"
+    },
+    "contact": {
+        "phone": "001-341-765-6578",
+        "servicePhone": "800818424"
+    },
+    "birthday": "2003-12-08",
+    "ip": "75.214.93.239",
+    "foo": "bar",
+    "profile": {
+        "about": "City and trip away case. Reach situation college often.\nScene for summer until hand give. Town by other.",
+        "bio": "Hand perform throw somebody employee establish event. Several house allow design American.\nMaybe skill role hear. Maintain certain whether laugh former. Special commercial soldier decade such."
+    },
+    "apiKey": "d9e08396463bac90317607c49b6e0d6ada13fb5b99235ba5f01762a8c9efdaea",
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
