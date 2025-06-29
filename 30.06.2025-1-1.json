@@ -1,0 +1,25 @@
+{
+    "name": "Paul Davis",
+    "age": 89,
+    "address": {
+        "street": "Hart Burgs",
+        "city": "Jacquelineland",
+        "state": "Wisconsin",
+        "zip": "46375"
+    },
+    "contact": {
+        "phone": "6546521479",
+        "servicePhone": "800148748"
+    },
+    "birthday": "1936-19-12",
+    "ip": "92.39.65.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Weight evidence international nature where feel item. None human member few event serve. Wish country both win.\nOnce read single one family need.",
+        "bio": "Check south deep long should success police fish. Cell gun big. Bill recently kitchen resource."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
