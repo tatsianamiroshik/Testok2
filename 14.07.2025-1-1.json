@@ -1,0 +1,25 @@
+{
+    "name": "David Bates",
+    "age": 65,
+    "address": {
+        "street": "Bryant Isle",
+        "city": "Jessicafort",
+        "state": "Iowa",
+        "zip": "64048"
+    },
+    "contact": {
+        "phone": "399-375-3285x1169",
+        "servicePhone": "800461609"
+    },
+    "birthday": "1960-05-09",
+    "ip": "25.139.237.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Boy cultural easy thus establish discuss. Boy bad yet east.\nJoin discuss agency attorney property.",
+        "bio": "Think investment reveal customer attention herself. Very visit glass meeting per.\nGirl start western. Suddenly well wear cold team woman. Very teach share always nice budget board."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
